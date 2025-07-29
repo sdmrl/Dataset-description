@@ -25,4 +25,4 @@ This dataset documents daily discharge measurements from snowmelt-dominated wate
 This dataset archives monthly residential water consumption metrics for the urban municipality of Melbourne, Australia. It contains utility records covering January 2000 to December 2020, reflecting municipal water demand patterns.
 
 ## Time Series Datasets Repository
-GitHub Repository: [https://github.com/dsml/dataset](https://github.com/dsml/dataset)
+GitHub Repository: [https://github.com/sdmrl/dataset](https://github.com/sdmrl/dataset)
